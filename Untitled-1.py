@@ -53,3 +53,5 @@ for caracter in texto:
         nueva_palabra = True
 
 print(resultado)
+
+#cualquier cosa, prueba
